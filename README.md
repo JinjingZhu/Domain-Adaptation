@@ -9,3 +9,5 @@
 * Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy (ICCV2019) https://github.com/Mephisto405/Unsupervised-Out-of-Distribution-Detection-by-Maximum-Classifier-Discrepancy
 ##   Domain Adaptation based on thermal images
 * Self-training Guided Adversarial Domain Adaptation For Thermal Imagery (CVPR2021) https://github.com/avaapm/SGADA
+##  Domain Adaptation based on event images
+* Bridging the Gap between Events and Frames through Unsupervised Domain Adaptation 
